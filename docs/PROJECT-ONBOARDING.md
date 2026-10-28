@@ -5,8 +5,8 @@
 
 1. A public proposal and human adoption decision are recorded in `Community`.
 2. Assign a named human maintainer; agree scope, maturity label, security exposure and licensing.
-3. Create a separate repository under `Comutability` with the agreed visibility, `README.md`, `LICENSE`, `AGENTS.md`, `CLAUDE.md`, `docs/`, `tests/` and CI as appropriate.
-4. Apply repo permissions, scoped AI tokens and branch/ruleset protections; keep deployment secrets separate.
+3. Create a separate repository under `Comutability` with the agreed visibility, `README.md`, `LICENSE`, locally reviewed `AGENTS.md` and `CLAUDE.md` from [templates](../templates/PROJECT-AGENTS.md), `docs/`, `tests/` and CI as appropriate. Follow the [AI rules adoption checklist](AI-RULES-ADOPTION-CHECKLIST.md).
+4. Apply repo permissions, scoped AI tokens and branch/ruleset protections; keep deployment secrets separate. If hosted, add a reviewed `docs/DEPLOYMENT.md` from the [deployment template](../templates/PROJECT-DEPLOYMENT.md).
 5. Link the issue/brief from the organisation profile. Announce release **only after** release evidence and human sign-off.
 
 ## Route B: Existing GitHub repo
