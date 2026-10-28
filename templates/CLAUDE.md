@@ -1,3 +1,4 @@
+<!-- LEGACY TEMPLATE: Prefer PROJECT-CLAUDE.md for new repositories. Review with human maintainer; do not copy without replacing project details. -->
 # Claude Code instructions for <project>
 
 @AGENTS.md
