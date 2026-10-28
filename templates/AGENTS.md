@@ -1,3 +1,4 @@
+<!-- LEGACY TEMPLATE: Prefer PROJECT-AGENTS.md for new repositories. Review with human maintainer; do not copy without replacing project details. -->
 # <Project name> agent instructions
 
 - The assigned issue and human maintainer define your scope.
