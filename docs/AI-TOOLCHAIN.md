@@ -1,6 +1,10 @@
 # Working with ChatGPT, Claude, Base44 and GitHub
 **Status: proposed. Tool names describe services, not a claim of ownership or access.**
 
+## Shared AI working rules
+
+All project work should be prepared against [COM-AI-001](../policies/AI-AGENT-OPERATING-RULES.md) and the [Website & Hosting Rules](WEBSITE-AND-HOSTING-RULES.md), both **proposed until ratified**. Use [Project AI Handoff](../templates/PROJECT-AGENT-HANDOFF.md) to transfer an approved issue from ChatGPT to Claude. The [Base44 Builder Rules template](../templates/BASE44-BUILDER-AGENT-RULES.md) must be explicitly supplied for designated Base44 changes; do not assume Base44 auto-loads GitHub markdown files.
+
 ## Roles and responsibility boundary
 
 | System | Job | Inputs | Outputs | Limits |
