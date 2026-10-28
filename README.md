@@ -9,13 +9,15 @@ Comutability is an independent, community-led, AI-assisted initiative to create 
 
 - [Approved Founding Charter v1.1](FOUNDING-CHARTER.md) (28 October 2026)
 - [Decision 0001: Charter approval](decisions/0001-founding-charter-approved.md)
+- [Decision 0002: FileGuide selected for discovery](decisions/0002-first-application-fileguide.md)
+- [Project 001: FileGuide brief](projects/001-fileguide/PROJECT-BRIEF.md)
 - [Community issues and proposals](https://github.com/Comutability/Community/issues) (for proposals, feedback and public planning)
 
 ## How to contribute
 
 You don't have to be a developer. You can propose a problem worth solving, test software, suggest usability or accessibility improvements, translate, document, design, review or code. Please be considerate and never post private credentials or sensitive personal information.
 
-We are establishing community governance, contributor policies and release standards. **Only the founding charter has been formally approved.** Other policies and the first software project are still under consideration.
+We are establishing community governance, contributor policies and release standards. **The founding charter is approved; governance policies are still proposals.** Our [first application concept, FileGuide](projects/001-fileguide/PROJECT-BRIEF.md), has been selected for discovery only: no implementation or release has yet been approved.
 
 ## Transparency
 
