@@ -26,3 +26,14 @@ We will distinguish experiments from maintained releases, document important dec
 ## Licensing
 
 This repository currently contains an Apache-2.0 `LICENSE` file. Individual future software projects may select different recognised open-source licences after review.
+
+## Unified organisation handbook (proposal)
+
+We are organising work around **ChatGPT for ideas and research**, **Claude for creative implementation**, **Base44 for designated existing apps**, and **GitHub for code, issues and reviews**. Human maintainers remain responsible for approvals and releases.
+
+- [Unified Operating Handbook: draft PR #5](https://github.com/Comutability/Community/pull/5)
+- [AI development and release policy: draft PR #3](https://github.com/Comutability/Community/pull/3)
+- [Governance: draft PR #1](https://github.com/Comutability/Community/pull/1)
+- [Existing project intake: draft PR #4](https://github.com/Comutability/Community/pull/4)
+
+These are public **proposals**, not ratified policies. Individual source repositories and open-source licensing still require review.
