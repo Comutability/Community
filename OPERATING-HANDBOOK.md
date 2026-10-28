@@ -54,6 +54,12 @@ Public release, support, issue response and maintenance
 
 Base44 projects run an additional **Base44 ↔ GitHub sync verification** step; changes can originate from the Base44 editor and must still be brought under the same review/release process as far as the platform supports.
 
+## Mandatory AI working rules (proposed)
+
+The [AI Agent Operating Rules, COM-AI-001](policies/AI-AGENT-OPERATING-RULES.md) are the canonical proposed guardrails for ChatGPT, Claude, Base44 and any future agent. The [Website and Hosting Rules](docs/WEBSITE-AND-HOSTING-RULES.md) control how proposed websites, deployments and public release claims should be handled. [Adoption and enforcement checklist](docs/AI-RULES-ADOPTION-CHECKLIST.md) separates written guidance from GitHub permissions, reviews, CI and actual configuration.
+
+To make this usable, **every approved application repository must have its own reviewed `AGENTS.md` and `CLAUDE.md`**, and the relevant tool must be configured to read them. A `.github` organisation profile does not automatically inject these instructions into every agent or Base44 app.
+
 ## 4. Essential handbook chapters
 
 1. [Architecture and repository map](docs/ARCHITECTURE.md)
@@ -66,6 +72,9 @@ Base44 projects run an additional **Base44 ↔ GitHub sync verification** step; 
 8. [How newcomers contribute](docs/GETTING-STARTED.md)
 9. [Existing projects and intake status](docs/EXISTING-PROJECTS.md)
 10. [Status and decisions register](docs/STATUS-AND-DECISIONS.md)
+11. [AI agent operating rules (COM-AI-001)](policies/AI-AGENT-OPERATING-RULES.md)
+12. [Website, hosting and deployment rules](docs/WEBSITE-AND-HOSTING-RULES.md)
+13. [AI rule adoption and technical enforcement](docs/AI-RULES-ADOPTION-CHECKLIST.md)
 
 ## 5. First-time contributor routes
 
