@@ -37,3 +37,7 @@ We are organising work around **ChatGPT for ideas and research**, **Claude for c
 - [Existing project intake: draft PR #4](https://github.com/Comutability/Community/pull/4)
 
 These are public **proposals**, not ratified policies. Individual source repositories and open-source licensing still require review.
+
+## Public website proposal (for Claude)
+
+We have prepared a [full Comutability public website brief](https://github.com/Comutability/Community/pull/8) and [Claude implementation handoff](https://github.com/Comutability/Community/blob/proposal/public-website-blueprint-v0.1/initiatives/public-website/CLAUDE-BUILD-HANDOFF.md). The proposed site will explain the community, project status, AI-assisted creation, human code review, contributor paths and a conditional Stripe support option. This is **not** an approved or deployed site, and no live payment link has been configured. Follow [implementation issue #9](https://github.com/Comutability/Community/issues/9).
