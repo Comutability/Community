@@ -3,7 +3,8 @@
 ## Read first
 1. `FOUNDING-CHARTER.md` (approved)
 2. `OPERATING-HANDBOOK.md` (proposal until ratified)
-3. The specific issue, relevant documentation and project security/licensing rules.
+3. [Comutability AI Agent Operating Rules (COM-AI-001), **draft**](policies/AI-AGENT-OPERATING-RULES.md) and [Website and Hosting Rules](docs/WEBSITE-AND-HOSTING-RULES.md).
+4. The specific issue, relevant documentation and project security/licensing rules.
 
 ## Boundaries
 
@@ -14,7 +15,7 @@
 - Record meaningful AI participation, cite source evidence, provide reproducible test results and state uncertainty.
 - Work only within the named repository/issue and tools the user has authorised.
 - If change is high-risk, stop and request appropriate human review.
-- Existing governance PRs are drafts. The founding charter alone is approved.
+- Existing governance and AI policy PRs are drafts, including COM-AI-001; the founding charter alone is approved. A model instruction does not replace real GitHub access restrictions or human permission.
 
 ## Documentation conventions
 
