@@ -9,7 +9,7 @@ Comutability is an independent, community-led, AI-assisted initiative to create 
 
 - [Approved Founding Charter v1.1](FOUNDING-CHARTER.md) (28 October 2026)
 - [Decision 0001: Charter approval](decisions/0001-founding-charter-approved.md)
-- [Community discussions and issues](../../issues) (for proposals, feedback and public planning)
+- [Community issues and proposals](https://github.com/Comutability/Community/issues) (for proposals, feedback and public planning)
 
 ## How to contribute
 
