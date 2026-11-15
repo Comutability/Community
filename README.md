@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://comutability.org">
+    <img src="https://comutability.org/icon-192.png" alt="Comutability official logo" width="132" height="132" />
+  </a>
+</p>
+
 # Comutability
 
 **Community + Usability**  
